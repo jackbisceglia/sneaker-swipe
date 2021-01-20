@@ -1,0 +1,66 @@
+.card-wrapper {
+    width: 20%;
+    height: 27.5rem;
+    border-radius: 1rem;
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+} 
+
+h4 {
+    margin: 0;
+    font-weight: 600;
+    font-size: 1.05rem;
+}
+
+.head {
+    display: flex;
+    width: 100%;
+    height: 15%;
+}
+
+img {
+    width: 90%;
+    height: 65%;
+    margin: 0;
+    border-radius: 1rem;
+    background-size: 150%;
+    background-position: left;
+}
+
+.next {
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.yes-btn, .no-btn {
+    height: 45%;
+    width: 25%;
+    border-radius: 0.5rem;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.5rem;
+    font-weight: 900;
+    color: #FF4D00;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.yes-btn:hover , .no-btn:hover {
+    color: #ff9900;
+
+}
+
+.shadow {
+    box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.25);
+}
+
+.shadow-text {
+    text-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.25);
+}

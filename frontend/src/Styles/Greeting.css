@@ -1,0 +1,22 @@
+.greeting-wrap {
+    margin: 1rem 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.greeting {
+    margin: 0 0 0.15rem 0;
+    font-weight: 700;
+    font-size: 2.3rem;
+    background-size: 100%;
+    background-clip: border-box;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+}
+
+p {
+    font-size: 1.27rem;
+    margin: 0;
+}
