@@ -7,7 +7,7 @@ export default function Greeting() {
     return (
         <div className="greeting-wrap fully-centered">
             <h1 className="greeting" style={{backgroundImage: COLORS.grad}}>
-                Welcome Jack
+                Welcome
             </h1>
             <p style={{color: COLORS.dark}}>
                 Start Swiping on some kicks

@@ -12,6 +12,7 @@ h4 {
     margin: 0;
     font-weight: 600;
     font-size: 1.05rem;
+    user-select: none;
 }
 
 .head {
@@ -27,6 +28,7 @@ img {
     border-radius: 1rem;
     background-size: 150%;
     background-position: left;
+    object-fit: cover;
 }
 
 .next {
@@ -45,7 +47,7 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 2.5rem;
+    font-size: 1.25rem;
     font-weight: 900;
     color: #FF4D00;
     cursor: pointer;
