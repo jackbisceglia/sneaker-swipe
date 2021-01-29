@@ -1,7 +1,7 @@
 import React from 'react'
 import '../Styles/Main.css'
 import '../Styles/Greeting.css'
-import { COLORS } from '../Styles/GLOBALSTYLES'
+import {COLORS} from '../Styles/GLOBALSTYLES'
 
 export default function Greeting() {
     return (

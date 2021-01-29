@@ -1,1 +1,1 @@
-export const mockData = '/data.json';
+export const endpoint = 'http://localhost:8080';

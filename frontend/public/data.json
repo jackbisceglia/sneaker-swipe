@@ -1,30 +1,30 @@
 [
-    {
-        "sneaker_name" : "SB Dunk Low 'Purple Lobsters'",
-        "img_link" : "https://i.pinimg.com/originals/b3/09/66/b309665daea0bf608d4593802851c01a.jpg",
-        "num_upvotes" : 10,
-        "num_downvotes" : 10,
-        "shoe_id" : 0
-    },
-    {
-        "sneaker_name" : "Air Max 95 OG 'Neon'",
-        "img_link" : "https://i.pinimg.com/originals/e4/c6/76/e4c6760477ba3c247ec08d5c47672fb5.jpg",
-        "num_upvotes" : 50,
-        "num_downvotes" : 0,
-        "shoe_id" : 1
-    },
-    {
-        "sneaker_name" : "Kobe 6 Protro 'Grinch' (2020)",
-        "img_link" : "https://www.kicksonfire.com/wp-content/uploads/2020/12/nike-kobe-6-protro-grinch-1.jpeg?x61191",
-        "num_upvotes" : 0,
-        "num_downvotes" : 10,
-        "shoe_id" : 2
-    },
-    {
-        "sneaker_name" : "Yeezy Boost 350 V2 'Zebra'",
-        "img_link" : "https://pbs.twimg.com/media/Driin0wX0AEO8qa.jpg",
-        "num_upvotes" : 1,
-        "num_downvotes" : 0,
-        "shoe_id" : 3
-    }
+  {
+    "sneaker_name": "SB Dunk Low 'Purple Lobsters'",
+    "img_link": "https://i.pinimg.com/originals/b3/09/66/b309665daea0bf608d4593802851c01a.jpg",
+    "num_upvotes": 10,
+    "num_downvotes": 10,
+    "shoe_id": 0
+  },
+  {
+    "sneaker_name": "Air Max 95 OG 'Neon'",
+    "img_link": "https://i.pinimg.com/originals/e4/c6/76/e4c6760477ba3c247ec08d5c47672fb5.jpg",
+    "num_upvotes": 50,
+    "num_downvotes": 0,
+    "shoe_id": 1
+  },
+  {
+    "sneaker_name": "Kobe 6 Protro 'Grinch' (2020)",
+    "img_link": "https://www.kicksonfire.com/wp-content/uploads/2020/12/nike-kobe-6-protro-grinch-1.jpeg?x61191",
+    "num_upvotes": 0,
+    "num_downvotes": 10,
+    "shoe_id": 2
+  },
+  {
+    "sneaker_name": "Yeezy Boost 350 V2 'Zebra'",
+    "img_link": "https://pbs.twimg.com/media/Driin0wX0AEO8qa.jpg",
+    "num_upvotes": 1,
+    "num_downvotes": 0,
+    "shoe_id": 3
+  }
 ]

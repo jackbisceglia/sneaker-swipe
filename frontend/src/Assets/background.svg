@@ -1,14 +1,15 @@
 <svg width="1440" height="1024" viewBox="0 0 1440 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0)">
-<rect width="1440" height="1024" fill="#EDEDED"/>
-<rect x="47.9108" y="-100" width="1862.22" height="459.493" transform="rotate(45 47.9108 -100)" fill="#D8D8D8"/>
-<rect x="878.911" y="-549" width="1862.22" height="459.493" transform="rotate(45 878.911 -549)" fill="#EAEAEA"/>
-<rect x="280.911" y="-512" width="2012.92" height="459.493" transform="rotate(45 280.911 -512)" fill="#C2C2C2"/>
-<rect x="-286.089" y="213.661" width="1552" height="459.493" transform="rotate(45 -286.089 213.661)" fill="white"/>
-</g>
-<defs>
-<clipPath id="clip0">
-<rect width="1440" height="1024" fill="white"/>
-</clipPath>
-</defs>
+    <g clip-path="url(#clip0)">
+        <rect width="1440" height="1024" fill="#EDEDED"/>
+        <rect x="47.9108" y="-100" width="1862.22" height="459.493" transform="rotate(45 47.9108 -100)" fill="#D8D8D8"/>
+        <rect x="878.911" y="-549" width="1862.22" height="459.493" transform="rotate(45 878.911 -549)" fill="#EAEAEA"/>
+        <rect x="280.911" y="-512" width="2012.92" height="459.493" transform="rotate(45 280.911 -512)" fill="#C2C2C2"/>
+        <rect x="-286.089" y="213.661" width="1552" height="459.493" transform="rotate(45 -286.089 213.661)"
+              fill="white"/>
+    </g>
+    <defs>
+        <clipPath id="clip0">
+            <rect width="1440" height="1024" fill="white"/>
+        </clipPath>
+    </defs>
 </svg>
