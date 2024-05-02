@@ -1,3 +1,5 @@
+I made this a long time ago, the code is likely pretty bad
+
 <h1 align="center">Sneaker-Swipe</h1>
 <p align="center">
 A web application designed to allow users to share their thoughts on various pairs of shoes  
